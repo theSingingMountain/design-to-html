@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92">
+  <g id="iauditor-logo-icon-smartbanner_c" transform="translate(1 1)">
+    <g id="g6">
+      <rect id="canvas_background" width="92" height="92" transform="translate(-1 -1)" fill="none"/>
+    </g>
+    <g id="g16">
+      <rect id="svg_1" width="88.889" height="89.125" rx="10" transform="translate(0.437 0.426)" fill="#fff" stroke="#000" stroke-width="1"/>
+      <g id="svg_2">
+        <path id="svg_3" d="M40.281,81.494a5.692,5.692,0,0,0,7.665.341l.03-.03c.12-.1.231-.2.341-.311s.211-.221.311-.341L82.048,47.732c.12-.1.231-.2.341-.311a5.679,5.679,0,0,0-7.745-8.3l-.01-.01-34.7,34.7-3.662,3.662,4.013,4.013Z" fill="#00daff" stroke="#000" stroke-width="1"/>
+        <path id="svg_4" d="M24.078,65.291l12.19,12.19L44.3,69.444l-12.19-12.19a5.683,5.683,0,1,0-8.036,8.037Z" fill="#5a59ff" stroke="#000" stroke-width="1"/>
+        <path id="svg_5" d="M49.822,6.817a5.692,5.692,0,0,0-7.665-.341l-.03.03c-.12.1-.231.2-.341.311s-.211.231-.311.341L8.056,40.579c-.12.1-.231.2-.341.311a5.679,5.679,0,0,0,7.745,8.3l.01.01L50.173,14.5l3.662-3.662L49.822,6.817Z" fill="#fed800" stroke="#000" stroke-width="1"/>
+        <path id="svg_6" d="M66.035,23.031,53.846,10.84l-8.036,8.037L58,31.067a5.683,5.683,0,1,0,8.036-8.036Z" fill="#0aad6a" stroke="#000" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
